@@ -35,10 +35,9 @@
             "startDate": "2020",
             "endDate": "2022",
             "highlights": [
-                "Created, managed, and migrated PostgreSQL databases in a data lake architecture",
-                "Identified external stakeholders' business-intelligence needs and produced custom SQL-powered reports for analyzing key performance indicators",
-                "Implemented a new database and computing infrastructure using Docker, shell, and AWS",
-                "Collaborated in an agile development environment and gained experience in a fast-paced startup"
+                "Joined as the first full-time development employee to transform a promising Health Management idea into a fully functional web application, building it from scratch.",
+                "Designed and implemented RESTful API calls using React to enhance user interface performance and ensure seamless data integration.",
+                "Collaborated across all stages of the systems development lifecycle, from requirement gathering to production releases, ensuring smooth project progression and successful delivery."
             ]
         },
         {
@@ -47,18 +46,26 @@
             "startDate": "2019",
             "endDate": "2020",
             "highlights": [
-                "Developed an open-source online learning platform for mathematics instructors",
-                "Worked directly with users to collect and implement product feedback"
+                "Contributed as a key member of a small development team responsible for maintaining and testing the web application for GUVI (EduTech), ensuring optimal performance and stability for 15k to 20k daily users."
+            ]
+        },
+        {
+            "name": "Amazon Development Center",
+            "position": "SDE Intern",
+            "startDate": "Jan&nbsp;2019",
+            "endDate": "June&nbsp;2019",
+            "highlights": [
+                "Contributed to the development of the Knowledge Center guided workflow, improving productivity and reducing resolution time for 2000+ Customer Service Associates."
             ]
         },
         {
             "name": "Amazon Development Center",
             "position": "Customer Service Associate",
-            "startDate": "2019",
-            "endDate": "2017",
+            "startDate": "2017",
+            "endDate": "2019",
             "highlights": [
-                "Wrote successful application for a research collaboration with French computer scientists",
-                "Conducted novel mathematical research in a multicultural environment"
+                "As a Customer Service Associate (CSA), I efficiently handled up to 50 issues per day, which helped me develop strong action-oriented problem-solving skills, self-discipline, and organizational abilities.", 
+                "Consistently demonstrated strong interpersonal skills by empathizing with and prioritizing customer needs, effectively engaging with a diverse customer base on a daily basis."
             ]
         }
     ],
