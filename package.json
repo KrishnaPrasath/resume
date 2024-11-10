@@ -10,6 +10,7 @@
     "watch": "npx @11ty/eleventy --watch"
   },
   "devDependencies": {
-    "@11ty/eleventy": "^3.0.0"
+    "@11ty/eleventy": "^3.0.0",
+    "puppeteer": "^23.7.1"
   }
 }
