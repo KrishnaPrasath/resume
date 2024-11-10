@@ -1,0 +1,75 @@
+{
+    "basics": {
+        "name": "Krishna Prasath, Solaisamy",
+        "label": "Full-Stack Software Developer",
+        "email": "krishnaprasath9695@gmail.com",
+        "url": "krishnaprasath.github.io",
+        "location": {
+            "city": "Chennai",
+            "region": "TN",
+            "countryCode": "IN"
+        },
+        "summary": "I am a software developer skilled in full-stack development, technical writing, and scientific programming. Passionate about helping others through technology, I've built end-to-end testing tools, crafted extensive documentation, and worked directly with developers to identify product improvements. I value communication highly and have great experience presenting technical content, including six years of teaching experience, multiple published research papers, and presentations to technical and non-technical audiences.",
+        "profiles": [
+            {
+                "network": "in/krishna-prasath",
+                "url": "https://www.linkedin.com/in/skrishnaprasath/"
+            }
+        ]
+    },
+    "work": [
+        {
+            "name": "Comcast",
+            "position": "Development Engineer 3",
+            "startDate": "2022",
+            "endDate": "Present",
+            "highlights": [
+                "Designed and developed full-stack application with Flask and Javascript for configuring and testing REST APIs in conjunction with frontend SDKs",
+                "Crafted extensive technical documentation and sample code for new product features to accelerate product adoption",
+                "Gathered product and documentation feedback by collaborating directly with external developers"
+            ]
+        },
+        {
+            "name": "Kycres, remote",
+            "position": "Full Stack Engineer",
+            "startDate": "2020",
+            "endDate": "2022",
+            "highlights": [
+                "Created, managed, and migrated PostgreSQL databases in a data lake architecture",
+                "Identified external stakeholders' business-intelligence needs and produced custom SQL-powered reports for analyzing key performance indicators",
+                "Implemented a new database and computing infrastructure using Docker, shell, and AWS",
+                "Collaborated in an agile development environment and gained experience in a fast-paced startup"
+            ]
+        },
+        {
+            "name": "GUVI",
+            "position": "Full Stack Developer",
+            "startDate": "2019",
+            "endDate": "2020",
+            "highlights": [
+                "Developed an open-source online learning platform for mathematics instructors",
+                "Worked directly with users to collect and implement product feedback"
+            ]
+        },
+        {
+            "name": "Amazon Development Center",
+            "position": "Customer Service Associate",
+            "startDate": "2019",
+            "endDate": "2017",
+            "highlights": [
+                "Wrote successful application for a research collaboration with French computer scientists",
+                "Conducted novel mathematical research in a multicultural environment"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "Sri Krishna Arts and Science College",
+            "area": "Software Systems",
+            "studyType": "Master of Science",
+            "studyTypeShort": "M.Sc",
+            "startDate": "2012",
+            "endDate": "2017"
+        }
+    ]
+}
